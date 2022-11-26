@@ -1,0 +1,59 @@
+
+
+header {
+    background-color: rgb(187, 187, 187);
+    width: 100%;
+    height: 100px;
+    padding:20px
+}
+
+.box { 
+    background-color: rgba(0, 10, 146, 0.651);
+    width: 100px;
+    height: 100px;
+}
+
+article {
+    background-color: rgb(255, 255, 255);
+    padding: 55px;
+}
+
+p {
+    padding:10px
+}
+
+section{
+    height: 250px;
+    width: 100%;
+}
+
+.blue {
+    background-color: rgba(0, 8, 121, 0.664);
+
+}
+.green {
+    background-color: rgb(68, 209, 174);
+}
+.light-green {
+    background-color: rgb(175, 255, 100);
+}
+.yellow {
+    background-color: rgb(242, 255, 56);
+}
+
+.question-circle {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    background-color: black;
+    width:60px;
+    height:60px;
+    border-radius: 50%;
+    text-align: center;
+}
+
+h1 {
+    color: aliceblue;
+    font-size: xx-large;
+    padding: 11px;
+}
